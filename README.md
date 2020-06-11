@@ -1,1 +1,1 @@
-# InterviewQuestions
+This repository contains all the solutions of important questions which are asked in a big tech giants.
