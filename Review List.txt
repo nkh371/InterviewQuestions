@@ -1,0 +1,4 @@
+Day 1 ==>                                           Done by     Revise      Level       Any Notes
+1. Find the duplicate in an array of N integers.     Self         No         Easy
+2. Sort an array of 0, 1 and 2                      Seek Help     Yes        Easy       learn 3 way quicksort & do this question by in place sorting
+3. Missing and Repeating in an Array                Seek Help     Yes        Medium      
